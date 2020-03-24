@@ -1,0 +1,36 @@
+.navbar {
+  background: rgb(236, 73, 73);
+}
+
+.navbar .nav-item {
+  padding-left: 1em;
+}
+
+.navbar-brand{
+  font-weight: 600;
+  font-size: 26px;
+}
+
+.navbar .nav-item .nav-link{
+  color: white;
+  background-color: rgb(184, 199, 122);
+  border-radius: 5px;
+  padding: .5em 1em;
+}
+
+.navbar .nav-item .nav-link:hover{
+  color: rgb(66, 66, 65);
+  background-color:  rgb(255, 191, 139);
+}
+
+section.bb{
+  height: 89vh;
+  padding: 15px;
+  background-color: rgb(189, 158, 91);
+}
+
+section.bg{
+  background-color: #f3ebebe0;
+  text-transform: uppercase;
+
+}

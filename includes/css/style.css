@@ -1,0 +1,31 @@
+/* Google Fonts */
+@import url('https://fonts.googleapis.com/css?family=Josefin+Sans:100,300,400,600,700|Poppins:100,200,300,400,500,600,700,800,900&display=swap');
+
+/* Global Fonts */
+body{
+	font-family: 'Poppins', sans-serif;
+	color: #262626;
+}
+h1, h2, h3, h4, h5, h6{
+	font-family: 'Josefin Sans', sans-serif;
+	color: #262626;
+}
+
+/* Page Header */
+.page-header {
+    background: #343a40;
+    padding: 20px;
+    margin-bottom: 50px;
+}
+.page-header h3{
+	color: #fff;
+    margin-top: 10px;
+}
+.btn-primary {
+    color: #fff;
+    background-color: #007bff;
+    border-color: #007bff;
+    padding: 12px 30px;
+    border-radius: 0;
+    float: right;
+}
